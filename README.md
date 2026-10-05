@@ -3,20 +3,19 @@
 A collection of hands-on Machine Learning projects created while learning
 and implementing different ML concepts and algorithms using Python.
 
-## 📚 Projects
-
 | # | Project | Concepts | Repository |
 |---|---|---|---|
-| 01 | 🏥 Heart Disease Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/heart-disease-analysis) |
-| 02 | 💰 Insurance Cost Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/insurance-cost-analysis) |
-| 03 | 📈 Linear Regression | Regression, Train-Test Split, Evaluation | Coming Soon |
-| 04 | 🎯 Logistic Regression | Classification, Confusion Matrix, Metrics | Coming Soon |
-| 05 | 🌳 Decision Tree | Classification, Tree-Based Learning | Coming Soon |
-| 06 | 🌲 Random Forest | Ensemble Learning, Feature Importance | Coming Soon |
-| 07 | 📍 K-Means | Unsupervised Learning, Clustering | Coming Soon |
-| 08 | 🔵 KNN | Classification, Distance-Based Learning | Coming Soon |
-| 09 | ⚡ SVM | Classification, Kernels | Coming Soon |
-| 10 | 🚀 XGBoost | Boosting, Ensemble Learning | Coming Soon |
+| 01 | 🏏 IPL 2022 Capstone Project | EDA, Data Visualization, Data Analysis | [View Project](./data-visualization/01-ipl-capstone-project/) |
+| 02 | 🏥 Heart Disease Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/heart-disease-analysis) |
+| 03 | 💰 Insurance Cost Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/insurance-cost-analysis) |
+| 04 | 📈 Linear Regression | Regression, Train-Test Split, Evaluation | Coming Soon |
+| 05 | 🎯 Logistic Regression | Classification, Confusion Matrix, Metrics | Coming Soon |
+| 06 | 🌳 Decision Tree | Classification, Tree-Based Learning | Coming Soon |
+| 07 | 🌲 Random Forest | Ensemble Learning, Feature Importance | Coming Soon |
+| 08 | 📍 K-Means | Unsupervised Learning, Clustering | Coming Soon |
+| 09 | 🔵 KNN | Classification, Distance-Based Learning | Coming Soon |
+| 10 | ⚡ SVM | Classification, Kernels | Coming Soon |
+| 11 | 🚀 XGBoost | Boosting, Ensemble Learning | Coming Soon |
 
 ## 🛠️ Technologies
 
