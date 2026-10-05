@@ -7,7 +7,7 @@ and implementing different ML concepts and algorithms using Python.
 |---|---|---|---|
 | 01 | 🏥 Heart Disease Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/heart-disease-analysis) |
 | 02 | 💰 Insurance Cost Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/insurance-cost-analysis) |
-| 03 | 📈 Linear Regression | Regression, Train-Test Split, Evaluation | Coming Soon |
+| 03 | 🚗 Ford Car Price Prediction | Linear Regression, Train-Test Split, Model Evaluation | [View Project](./02-linear-regression/ford-car-price-prediction/) |
 | 04 | 🎯 Logistic Regression | Classification, Confusion Matrix, Metrics | Coming Soon |
 | 05 | 🌳 Decision Tree | Classification, Tree-Based Learning | Coming Soon |
 | 06 | 🌲 Random Forest | Ensemble Learning, Feature Importance | Coming Soon |
