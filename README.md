@@ -8,12 +8,12 @@ and implementing different ML concepts and algorithms using Python.
 | 01 | 🏥 Heart Disease Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/heart-disease-analysis) |
 | 02 | 💰 Insurance Cost Analysis | EDA, Data Preprocessing, Visualization | [View Project](https://github.com/devang-bais/insurance-cost-analysis) |
 | 03 | 🚗 Ford Car Price Prediction | Linear Regression, Train-Test Split, Model Evaluation | [View Project](./02-linear-regression/ford-car-price-prediction/) |
-| 04 | 🎯 Logistic Regression | Classification, Confusion Matrix, Metrics | Coming Soon |
-| 05 | 🌳 Decision Tree | Classification, Tree-Based Learning | Coming Soon |
+| 04 | 🎯 Logistic Regression | Classification, Confusion Matrix, Metrics | [View Project](./01-titanic-classification/Titanic_Logistic_Regression.ipynb) |
+| 05 | 🌳 Decision Tree | Classification, Tree-Based Learning | [View Project](./01-titanic-classification/Titanic_DecisionTree.ipynb) |
 | 06 | 🌲 Random Forest | Ensemble Learning, Feature Importance | Coming Soon |
 | 07 | 📍 K-Means | Unsupervised Learning, Clustering | Coming Soon |
-| 08 | 🔵 KNN | Classification, Distance-Based Learning | Coming Soon |
-| 09 | ⚡ SVM | Classification, Kernels | Coming Soon |
+| 08 | 🔵 KNN | Classification, Distance-Based Learning | [View Project](./01-titanic-classification/Titanic_KNN.ipynb) |
+| 09 | ⚡ SVM | Classification, Kernels | [View Project](./01-titanic-classification/Titanic_SVM.ipynb) |
 | 10 | 🚀 XGBoost | Boosting, Ensemble Learning | Coming Soon |
 
 ## 🛠️ Technologies
